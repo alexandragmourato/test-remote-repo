@@ -1,1 +1,2 @@
 This is test2.tzt
+Another line in test2.tzt.
